@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 40px 20px;
+}
+
+.faq-container{
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+}
